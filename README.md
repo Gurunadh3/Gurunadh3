@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 </head>
 
 <div align="top">
-  <img align="right" src="" />
+   <img align="right" src="https://github.com/BadagalaAdarsh/Practice/blob/main/ezgif.com-gif-maker.gif" width="200" height="200" />
 </div>
 
 <p align="left"> <a href="https://twitter.com/TheGurunadh" target="blank"><img src="https://img.shields.io/twitter/follow/TheGurunadh?logo=twitter&style=for-the-badge" alt="TheGurunadh" /></a> </p>
